@@ -1,2 +1,5 @@
-# Tetris_C_MSP430
- Jogo Tetris desenvolvido em C para o microcontrolador MSP430F5529, foi utilizado no projeto um LCD Nokia 5110 para visualização do jogo e um joystick para controlar.
+# Tetris developed in C for the MSP430
+
+Project of a Tetris developed in C to run in the microcontroller MSP430F5529, it was used a NOKIA 5110 LCD, using SPI protocol, and a joystick.
+
+
